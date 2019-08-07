@@ -1,0 +1,10 @@
+D:\Documents\VSProjects\CustomMessageBox\CustomMessageBox\bin\Release\CustomMessageBox.exe.config
+D:\Documents\VSProjects\CustomMessageBox\CustomMessageBox\bin\Release\CustomMessageBox.exe
+D:\Documents\VSProjects\CustomMessageBox\CustomMessageBox\bin\Release\CustomMessageBox.pdb
+D:\Documents\VSProjects\CustomMessageBox\CustomMessageBox\obj\Release\CustomMessageBox.csprojAssemblyReference.cache
+D:\Documents\VSProjects\CustomMessageBox\CustomMessageBox\obj\Release\CustomMessageBox.CMForm.resources
+D:\Documents\VSProjects\CustomMessageBox\CustomMessageBox\obj\Release\CustomMessageBox.Properties.Resources.resources
+D:\Documents\VSProjects\CustomMessageBox\CustomMessageBox\obj\Release\CustomMessageBox.csproj.GenerateResource.cache
+D:\Documents\VSProjects\CustomMessageBox\CustomMessageBox\obj\Release\CustomMessageBox.csproj.CoreCompileInputs.cache
+D:\Documents\VSProjects\CustomMessageBox\CustomMessageBox\obj\Release\CustomMessageBox.exe
+D:\Documents\VSProjects\CustomMessageBox\CustomMessageBox\obj\Release\CustomMessageBox.pdb
